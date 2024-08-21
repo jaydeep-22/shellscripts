@@ -8,3 +8,4 @@ export JDK_HOME=/bin/jdk
 echo "my new JDK home is=$JDK_HOME"
 echo "hii every one"
 echo "GOOOD NIGHT"
+echo "everyone is sweet"
